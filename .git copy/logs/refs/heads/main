@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 d4f580cd5797dabc9a146b18ed7da489537d309c luka orvelashvili <luke.orvela0@gmail.com> 1739984353 +0400	commit (initial): first commit
+d4f580cd5797dabc9a146b18ed7da489537d309c d4f580cd5797dabc9a146b18ed7da489537d309c luka orvelashvili <luke.orvela0@gmail.com> 1739984353 +0400	Branch: renamed refs/heads/main to refs/heads/main
+d4f580cd5797dabc9a146b18ed7da489537d309c 0ba7ce2b34cd0f229898be314b2e019f674dffec luka orvelashvili <luke.orvela0@gmail.com> 1739984393 +0400	commit: first commit
+0ba7ce2b34cd0f229898be314b2e019f674dffec 8f20475f0ea8b0eb0085b83a903ebbcf01b294d2 luka orvelashvili <luke.orvela0@gmail.com> 1739984551 +0400	commit: removed storageState from repo
+8f20475f0ea8b0eb0085b83a903ebbcf01b294d2 8446f253718af9e0f49c1194fc525b8bdee8f9de luka orvelashvili <luke.orvela0@gmail.com> 1739984733 +0400	commit: forgot to set retries to 2
+8446f253718af9e0f49c1194fc525b8bdee8f9de 8aac734194fb82384f36d4c0dec50a39b15bb978 luka orvelashvili <luke.orvela0@gmail.com> 1739985313 +0400	commit: removed skip from signup and login tests and enabled safari again
+8aac734194fb82384f36d4c0dec50a39b15bb978 a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740131163 +0400	commit: Clear repository: remove all files

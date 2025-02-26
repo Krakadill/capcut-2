@@ -1,0 +1,44 @@
+0000000000000000000000000000000000000000 d4f580cd5797dabc9a146b18ed7da489537d309c luka orvelashvili <luke.orvela0@gmail.com> 1739984353 +0400	commit (initial): first commit
+d4f580cd5797dabc9a146b18ed7da489537d309c 0000000000000000000000000000000000000000 luka orvelashvili <luke.orvela0@gmail.com> 1739984353 +0400	Branch: renamed refs/heads/main to refs/heads/main
+d4f580cd5797dabc9a146b18ed7da489537d309c d4f580cd5797dabc9a146b18ed7da489537d309c luka orvelashvili <luke.orvela0@gmail.com> 1739984353 +0400	Branch: renamed refs/heads/main to refs/heads/main
+d4f580cd5797dabc9a146b18ed7da489537d309c 0ba7ce2b34cd0f229898be314b2e019f674dffec luka orvelashvili <luke.orvela0@gmail.com> 1739984393 +0400	commit: first commit
+0ba7ce2b34cd0f229898be314b2e019f674dffec 8f20475f0ea8b0eb0085b83a903ebbcf01b294d2 luka orvelashvili <luke.orvela0@gmail.com> 1739984551 +0400	commit: removed storageState from repo
+8f20475f0ea8b0eb0085b83a903ebbcf01b294d2 8446f253718af9e0f49c1194fc525b8bdee8f9de luka orvelashvili <luke.orvela0@gmail.com> 1739984733 +0400	commit: forgot to set retries to 2
+8446f253718af9e0f49c1194fc525b8bdee8f9de 8aac734194fb82384f36d4c0dec50a39b15bb978 luka orvelashvili <luke.orvela0@gmail.com> 1739985313 +0400	commit: removed skip from signup and login tests and enabled safari again
+8aac734194fb82384f36d4c0dec50a39b15bb978 8aac734194fb82384f36d4c0dec50a39b15bb978 luka orvelashvili <luke.orvela0@gmail.com> 1740044512 +0400	checkout: moving from main to feature-branch
+8aac734194fb82384f36d4c0dec50a39b15bb978 e2a793173c2d39c94c1657be4ef35403e1890e3c luka orvelashvili <luke.orvela0@gmail.com> 1740044683 +0400	commit: Made a small change for PR
+e2a793173c2d39c94c1657be4ef35403e1890e3c 8aac734194fb82384f36d4c0dec50a39b15bb978 luka orvelashvili <luke.orvela0@gmail.com> 1740131039 +0400	checkout: moving from feature-branch to main
+8aac734194fb82384f36d4c0dec50a39b15bb978 a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740131163 +0400	commit: Clear repository: remove all files
+a8acf5841991fc573098ea88877b0472916ac346 e2a793173c2d39c94c1657be4ef35403e1890e3c luka orvelashvili <luke.orvela0@gmail.com> 1740131307 +0400	checkout: moving from main to feature-branch
+e2a793173c2d39c94c1657be4ef35403e1890e3c e2a793173c2d39c94c1657be4ef35403e1890e3c luka orvelashvili <luke.orvela0@gmail.com> 1740131459 +0400	checkout: moving from feature-branch to feature
+e2a793173c2d39c94c1657be4ef35403e1890e3c e2a793173c2d39c94c1657be4ef35403e1890e3c luka orvelashvili <luke.orvela0@gmail.com> 1740131578 +0400	checkout: moving from feature to feature-branch
+e2a793173c2d39c94c1657be4ef35403e1890e3c 8aac734194fb82384f36d4c0dec50a39b15bb978 luka orvelashvili <luke.orvela0@gmail.com> 1740131579 +0400	reset: moving to HEAD~1
+8aac734194fb82384f36d4c0dec50a39b15bb978 a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740131751 +0400	checkout: moving from feature-branch to main
+a8acf5841991fc573098ea88877b0472916ac346 8aac734194fb82384f36d4c0dec50a39b15bb978 luka orvelashvili <luke.orvela0@gmail.com> 1740131846 +0400	checkout: moving from main to feature-branch
+0000000000000000000000000000000000000000 b215c237aeef755528509328eb9d21dc4571e61f luka orvelashvili <luke.orvela0@gmail.com> 1740132319 +0400	commit (initial): Reset repository to empty state
+b215c237aeef755528509328eb9d21dc4571e61f 8aac734194fb82384f36d4c0dec50a39b15bb978 luka orvelashvili <luke.orvela0@gmail.com> 1740132538 +0400	checkout: moving from temp-empty-main to feature-branch
+8aac734194fb82384f36d4c0dec50a39b15bb978 d4f580cd5797dabc9a146b18ed7da489537d309c luka orvelashvili <luke.orvela0@gmail.com> 1740132662 +0400	reset: moving to d4f580cd5797dabc9a146b18ed7da489537d309c
+d4f580cd5797dabc9a146b18ed7da489537d309c 0ba7ce2b34cd0f229898be314b2e019f674dffec luka orvelashvili <luke.orvela0@gmail.com> 1740132788 +0400	reset: moving to 0ba7ce2b34cd0f229898be314b2e019f674dffec
+0ba7ce2b34cd0f229898be314b2e019f674dffec a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740133194 +0400	checkout: moving from feature-branch to main
+a8acf5841991fc573098ea88877b0472916ac346 0ba7ce2b34cd0f229898be314b2e019f674dffec luka orvelashvili <luke.orvela0@gmail.com> 1740133273 +0400	checkout: moving from main to feature-branch
+0000000000000000000000000000000000000000 1a2ddbe2b45577819e1e1ed4cd10cf7b9761b695 luka orvelashvili <luke.orvela0@gmail.com> 1740133562 +0400	commit (initial): Empty main commit
+1a2ddbe2b45577819e1e1ed4cd10cf7b9761b695 0ba7ce2b34cd0f229898be314b2e019f674dffec luka orvelashvili <luke.orvela0@gmail.com> 1740133577 +0400	checkout: moving from empty-main to feature-branch
+0ba7ce2b34cd0f229898be314b2e019f674dffec a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740133775 +0400	checkout: moving from feature-branch to main
+a8acf5841991fc573098ea88877b0472916ac346 a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740133782 +0400	checkout: moving from main to merge-branch
+a8acf5841991fc573098ea88877b0472916ac346 0ba7ce2b34cd0f229898be314b2e019f674dffec luka orvelashvili <luke.orvela0@gmail.com> 1740134080 +0400	checkout: moving from merge-branch to feature-branch
+0ba7ce2b34cd0f229898be314b2e019f674dffec a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740134137 +0400	rebase (start): checkout main
+a8acf5841991fc573098ea88877b0472916ac346 a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740134137 +0400	rebase (finish): returning to refs/heads/feature-branch
+a8acf5841991fc573098ea88877b0472916ac346 0ba7ce2b34cd0f229898be314b2e019f674dffec luka orvelashvili <luke.orvela0@gmail.com> 1740134226 +0400	checkout: moving from feature-branch to backup-feature
+0ba7ce2b34cd0f229898be314b2e019f674dffec e2a793173c2d39c94c1657be4ef35403e1890e3c luka orvelashvili <luke.orvela0@gmail.com> 1740134256 +0400	checkout: moving from backup-feature to feature
+e2a793173c2d39c94c1657be4ef35403e1890e3c 0ba7ce2b34cd0f229898be314b2e019f674dffec luka orvelashvili <luke.orvela0@gmail.com> 1740134323 +0400	checkout: moving from feature to backup-feature
+0ba7ce2b34cd0f229898be314b2e019f674dffec a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740134429 +0400	checkout: moving from backup-feature to feature-branch
+a8acf5841991fc573098ea88877b0472916ac346 377f0277c1ab9a3fc6d9d39209bf1253318f0591 luka orvelashvili <luke.orvela0@gmail.com> 1740134467 +0400	commit: Restore files from backup
+377f0277c1ab9a3fc6d9d39209bf1253318f0591 a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740135218 +0400	checkout: moving from feature-branch to main
+a8acf5841991fc573098ea88877b0472916ac346 a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740135231 +0400	checkout: moving from main to feature-new
+a8acf5841991fc573098ea88877b0472916ac346 9735922a796859e9eaa380a8a84da476550c9caa luka orvelashvili <luke.orvela0@gmail.com> 1740135272 +0400	commit: Copy changes from feature branch
+9735922a796859e9eaa380a8a84da476550c9caa a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740135464 +0400	checkout: moving from feature-new to main
+a8acf5841991fc573098ea88877b0472916ac346 a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740135498 +0400	checkout: moving from main to feature-2
+a8acf5841991fc573098ea88877b0472916ac346 a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740135711 +0400	reset: moving to main
+a8acf5841991fc573098ea88877b0472916ac346 a8acf5841991fc573098ea88877b0472916ac346 luka orvelashvili <luke.orvela0@gmail.com> 1740135762 +0400	checkout: moving from feature-2 to main
+a8acf5841991fc573098ea88877b0472916ac346 377f0277c1ab9a3fc6d9d39209bf1253318f0591 luka orvelashvili <luke.orvela0@gmail.com> 1740396919 +0400	checkout: moving from main to feature-branch
+377f0277c1ab9a3fc6d9d39209bf1253318f0591 8119f1602e08c92b370cf473eebe161e635f11b3 luka orvelashvili <luke.orvela0@gmail.com> 1740491882 +0400	commit: changed test named and integrated chai for assertions
